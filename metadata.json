@@ -1,0 +1,7 @@
+{
+  "name": "Multi-Persona AI Chat",
+  "description": "A conversational AI application allowing users to switch between multiple personas, each with distinct speaking styles and conversational memory, powered by the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
